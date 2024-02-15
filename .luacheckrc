@@ -14,3 +14,5 @@ files["mods/player_api/api.lua"].globals = { "minetest" }
 
 -- Don't report on legacy definitions of globals.
 files["mods/default/legacy.lua"].global = false
+
+-- run it plz thanks
